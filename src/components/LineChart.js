@@ -1,8 +1,8 @@
 import React from 'react'
 import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
-import '../pages/Infected.scss'
-
+/* import '../pages/Infected.scss';
+ */
 function LineChart({ data }) {
 /* 
   const runData = () => {

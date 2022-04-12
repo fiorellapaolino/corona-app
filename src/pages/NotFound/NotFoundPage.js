@@ -1,5 +1,5 @@
 import NotFoundImg from '../../assets/image.svg'
-import './NotFoundPage.scss'
+import './notFoundPage.scss'
 import {
     Link
 } from "react-router-dom";

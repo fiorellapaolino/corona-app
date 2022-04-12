@@ -1,10 +1,10 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios'
-import StatusCard from '../components/statusCard/StatusCard';
-import Linechart from '../components/LineChart';
-import './Home.scss';
-import TableInfected from '../components/TableInfected/TableInfected';
-import Sidebar from '../components/sidebar/Sidebar';
+import StatusCard from '../../components/statusCard/StatusCard';
+import Linechart from '../../components/LineChart';
+import './home.scss';
+import TableInfected from '../../components/TableInfected/TableInfected';
+import Sidebar from '../../components/sidebar/Sidebar';
 
 function Home() {
 

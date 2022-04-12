@@ -1,19 +1,10 @@
 import React from 'react'
-/* import {
-    Link
-  } from "react-router-dom"; */
-import './Nav.scss';
+import './nav.scss';
 import { NotificationsNone } from "@material-ui/icons";
 import user from '../../assets/user.png';
 
 function Nav() {
     return (
- /*      <nav className="sticky">
-        <ul className="main-nav">
-          <li className="text-link"><Link to="/">Covid-19 Infected</Link></li>
-          <li className="text-link"><Link to="/Countries">Countries</Link></li>
-        </ul>
-      </nav> */
       <div className="navbar">
         <div className="navbarWrapper">
           <div className="navLeft">

@@ -1,5 +1,5 @@
 import React from 'react'
-import './Form.scss'
+import './form.scss'
 import { useForm } from 'react-hook-form';
 
 function Form({ data, setData }) {

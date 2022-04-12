@@ -1,5 +1,5 @@
 import React from 'react'
-import './TableCountries.scss'
+import './tableCountries.scss'
 
 function TableCountries({dataCountries}) {
     return (

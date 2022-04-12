@@ -1,6 +1,7 @@
 import React from 'react'
-import './TableInfected.scss'
+import './tableInfected.scss'
 import {KeyboardArrowUp} from "@material-ui/icons";
+
 function TableInfected({ data, setData }) {
 
   const orderByAge = () => {
