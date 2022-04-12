@@ -1,0 +1,11 @@
+.countries {
+    display: flex;
+  
+    .countriesContainer {
+        flex: 6;
+        display: flex;
+        padding: 20px;
+        gap: 20px;
+          
+    }
+}

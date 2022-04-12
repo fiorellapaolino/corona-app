@@ -1,0 +1,21 @@
+.notFoundPage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(96, 233, 226);
+    height: 710px;
+    font-family: 'Imprima', sans-serif;
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+}
+    img{
+        width: 500px;
+        height: 500px;    
+    }
+
+    .gobackhome{
+        color: blue;
+    }
+}
